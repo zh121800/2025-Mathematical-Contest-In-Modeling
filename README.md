@@ -2,11 +2,11 @@
 2025美赛C题
 ## MM-LSTM: A Momentum LSTM Model for Tennis Match Prediction and Analysis
 
-![LSTM Structure](figure/lstm_structure.png)
+![LSTM Structure](pipeline.png)
 
-MM-LSTM is an innovative model designed to predict and analyze tennis matches by capturing the concept of "momentum," which is often observed during matches but cannot be directly measured. The model uses Long Short Term Memory (LSTM) architecture to simulate players' match states, including their current match situation, forgetting past situations, and actions like hitting the ball.
 
-![Match Analysis](figure/3.png)
+
+![Clustering method](SHMC.png)
 
 
 ![Memorandum](figure/memo.png)
